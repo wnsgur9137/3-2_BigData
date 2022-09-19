@@ -1,0 +1,103 @@
+,case_id,province,group,infection_case,confirmed,latitude,longitude,country
+0,1000001,Seoul,True,Guro-gu Call Center,96,37.508163,126.884387,korea
+1,1000002,Seoul,True,Dongan Church,20,37.592888,127.056766,korea
+2,1000003,Seoul,True,Manmin Central Church,20,37.481059,126.894343,korea
+3,1000004,Seoul,True,Eunpyeong St. Mary's Hospital,14,37.63369,126.9165,korea
+4,1000005,Seoul,True,Seongdong-gu APT,13,37.55713,127.0403,korea
+5,1000006,Seoul,True,Jongno Community Center,10,37.57681,127.006,korea
+6,1000007,Seoul,True,Jung-gu Fashion Company,7,37.562405,126.984377,korea
+7,1000008,Seoul,True,Shincheonji Church,6,-,-,korea
+8,1000009,Seoul,False,overseas inflow,109,-,-,korea
+9,1000010,Seoul,False,contact with patient,32,-,-,korea
+10,1000011,Seoul,False,etc,33,-,-,korea
+11,1100001,Busan,True,Onchun Church,32,35.21628,129.0771,korea
+12,1100002,Busan,True,Shincheonji Church,12,-,-,korea
+13,1100003,Busan,True,Suyeong-gu Kindergarten,5,35.16708,129.1124,korea
+14,1100004,Busan,True,Haeundae-gu Catholic Church,6,35.20599,129.1256,korea
+15,1100005,Busan,True,Jin-gu Academy,4,35.17371,129.0633,korea
+16,1100006,Busan,True,Cheongdo Daenam Hospital,1,-,-,korea
+17,1100007,Busan,False,overseas inflow,8,-,-,korea
+18,1100008,Busan,False,contact with patient,18,-,-,korea
+19,1100009,Busan,False,etc,30,-,-,korea
+20,1200001,Daegu,True,Shincheonji Church,4467,35.84008,128.5667,korea
+21,1200002,Daegu,True,Cheongdo Daenam Hospital,2,-,-,korea
+22,1200003,Daegu,False,overseas inflow,4,-,-,korea
+23,1200004,Daegu,False,contact with patient,913,-,-,korea
+24,1200005,Daegu,False,etc,749,-,-,korea
+25,1300001,Gwangju,True,Shincheonji Church,9,-,-,korea
+26,1300002,Gwangju,False,overseas inflow,5,-,-,korea
+27,1300003,Gwangju,False,contact with patient,2,-,-,korea
+28,1300004,Gwangju,False,etc,1,-,-,korea
+29,1400001,Incheon,True,Guro-gu Call Center,20,-,-,korea
+30,1400002,Incheon,False,Shincheonji Church,2,-,-,korea
+31,1400003,Incheon,True,overseas inflow,19,-,-,korea
+32,1400004,Incheon,False,contact with patient,3,-,-,korea
+33,1400005,Incheon,False,etc,3,-,-,korea
+34,1500001,Daejeon,True,Korea Forest Engineer Institute,3,36.358123,127.388856,korea
+35,1500002,Daejeon,True,Shincheonji Church,2,-,-,korea
+36,1500003,Daejeon,True,Seosan-si Laboratory,2,-,-,korea
+37,1500004,Daejeon,False,overseas inflow,4,-,-,korea
+38,1500005,Daejeon,False,contact with patient,8,-,-,korea
+39,1500006,Daejeon,False,etc,9,-,-,korea
+40,1600001,Ulsan,True,Shincheonji Church,16,-,-,korea
+41,1600002,Ulsan,False,overseas inflow,8,-,-,korea
+42,1600003,Ulsan,False,contact with patient,4,-,-,korea
+43,1600004,Ulsan,False,etc,7,-,-,korea
+44,1700001,Sejong,True,Ministry of Oceans and Fisheries,30,36.504713,127.265172,korea
+45,1700002,Sejong,True,gym facility in Sejong,8,36.48025,127.289,korea
+46,1700003,Sejong,True,Shincheonji Church,1,-,-,korea
+47,1700004,Sejong,False,overseas inflow,3,-,-,korea
+48,1700005,Sejong,False,contact with patient,3,-,-,korea
+49,1700006,Sejong,False,etc,1,-,-,korea
+50,2000001,Gyeonggi-do,True,Guro-gu Call Center,48,-,-,korea
+51,2000002,Gyeonggi-do,True,Shincheonji Church,28,-,-,korea
+52,2000003,Gyeonggi-do,True,Bundang Jesaeng Hospital,22,37.38833,127.1218,korea
+53,2000004,Gyeonggi-do,True,River of Grace Community Church,68,37.455687,127.161627,korea
+54,2000005,Gyeonggi-do,True,Suwon Saeng Myeong Saem Church,10,37.2376,127.0517,korea
+55,2000006,Gyeonggi-do,False,overseas inflow,79,-,-,korea
+56,2000007,Gyeonggi-do,False,contact with patient,58,-,-,korea
+57,2000008,Gyeonggi-do,False,etc,42,-,-,korea
+58,3000001,Gangwon-do,True,Shincheonji Church,17,-,-,korea
+59,3000002,Gangwon-do,True,Wonju-si Apartments,3,-,-,korea
+60,3000003,Gangwon-do,False,overseas inflow,5,-,-,korea
+61,3000004,Gangwon-do,False,contact with patient,1,-,-,korea
+62,3000005,Gangwon-do,False,etc,8,-,-,korea
+63,4000001,Chungcheongbuk-do,True,Shincheonji Church,6,-,-,korea
+64,4000002,Chungcheongbuk-do,True,Goesan-gun Jangyeon-myeon,11,36.82422,127.9552,korea
+65,4000003,Chungcheongbuk-do,False,overseas inflow,3,-,-,korea
+66,4000004,Chungcheongbuk-do,False,contact with patient,15,-,-,korea
+67,4000005,Chungcheongbuk-do,False,etc,9,-,-,korea
+68,4100001,Chungcheongnam-do,True,gym facility in Cheonan,103,36.81503,127.1139,korea
+69,4100002,Chungcheongnam-do,True,Seosan-si Laboratory,8,37.000354,126.354443,korea
+70,4100003,Chungcheongnam-do,False,overseas inflow,7,-,-,korea
+71,4100004,Chungcheongnam-do,False,contact with patient,1,-,-,korea
+72,4100005,Chungcheongnam-do,False,etc,7,-,-,korea
+73,5000001,Jeollabuk-do,True,Shincheonji Church,1,-,-,korea
+74,5000002,Jeollabuk-do,False,overseas inflow,5,-,-,korea
+75,5000003,Jeollabuk-do,False,etc,7,-,-,korea
+76,5100001,Jeollanam-do,True,Shincheonji Church,1,-,-,korea
+77,5100002,Jeollanam-do,False,overseas inflow,2,-,-,korea
+78,5100003,Jeollanam-do,False,contact with patient,2,-,-,korea
+79,5100004,Jeollanam-do,False,etc,1,-,-,korea
+80,6000001,Gyeongsangbuk-do,True,Shincheonji Church,409,-,-,korea
+81,6000002,Gyeongsangbuk-do,True,Cheongdo Daenam Hospital,120,35.64887,128.7368,korea
+82,6000003,Gyeongsangbuk-do,True,Bonghwa Pureun Nursing Home,68,36.92757,128.9099,korea
+83,6000004,Gyeongsangbuk-do,True,Pilgrimage to Israel,49,-,-,korea
+84,6000005,Gyeongsangbuk-do,True,Milal Shelter,36,36.0581,128.4941,korea
+85,6000006,Gyeongsangbuk-do,True,Gyeongsan Seorin Nursing Home,22,35.782149,128.801498,korea
+86,6000007,Gyeongsangbuk-do,True,Gyeongsan Jeil Silver Town,17,35.84819,128.7621,korea
+87,6000008,Gyeongsangbuk-do,True,Gyeongsan Cham Joeun Community Center,16,35.82558,128.7373,korea
+88,6000009,Gyeongsangbuk-do,False,overseas inflow,2,-,-,korea
+89,6000010,Gyeongsangbuk-do,False,contact with patient,193,-,-,korea
+90,6000011,Gyeongsangbuk-do,False,etc,134,-,-,korea
+91,6100001,Gyeongsangnam-do,True,Shincheonji Church,32,-,-,korea
+92,6100002,Gyeongsangnam-do,True,Geochang Church,10,35.68556,127.9127,korea
+93,6100003,Gyeongsangnam-do,True,Geochang-gun Woongyang-myeon,8,35.805681,127.917805,korea
+94,6100004,Gyeongsangnam-do,True,Hanmaeum Changwon Hospital,7,35.22115,128.6866,korea
+95,6100005,Gyeongsangnam-do,True,Changnyeong Coin Karaoke,7,35.54127,128.5008,korea
+96,6100006,Gyeongsangnam-do,True,Onchun Church,2,-,-,korea
+97,6100007,Gyeongsangnam-do,False,overseas inflow,6,-,-,korea
+98,6100008,Gyeongsangnam-do,False,contact with patient,5,-,-,korea
+99,6100009,Gyeongsangnam-do,False,etc,17,-,-,korea
+100,7000001,Jeju-do,False,overseas inflow,5,-,-,korea
+101,7000002,Jeju-do,False,etc,4,-,-,korea
